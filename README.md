@@ -3,31 +3,12 @@
 ###
 
 <div align="center">
-  <img height="193" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-183.gif"  />
+  <img height="292" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-183.gif"  />
 </div>
 
 ###
 
 <div align="center">
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yash-gupta-190854327" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/YashGpt3005" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="guptayash.programmer@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
 </div>
 
 ###
@@ -60,6 +41,40 @@
 
 ###
 
+<div align="center">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlgoArchitect3005&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/AlgoArchitect3005/AlgoArchitect3005/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center" style="width: 100%"></div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yash-gupta-190854327" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/YashGpt3005" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="guptayash.programmer@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
