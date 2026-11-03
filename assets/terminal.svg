@@ -1,0 +1,25 @@
+<svg width="1000" height="330" viewBox="0 0 1000 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated terminal about Yash">
+<defs>
+<clipPath id="k0"><rect x="66" y="48" height="30" width="0"><animate attributeName="width" values="0;0;72;72;0" keyTimes="0;0.0278;0.0833;.94;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="k1"><rect x="66" y="110" height="30" width="0"><animate attributeName="width" values="0;0;156;156;0" keyTimes="0;0.1944;0.2500;.94;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="k2"><rect x="66" y="172" height="30" width="0"><animate attributeName="width" values="0;0;132;132;0" keyTimes="0;0.3611;0.4167;.94;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="k3"><rect x="66" y="234" height="30" width="0"><animate attributeName="width" values="0;0;132;132;0" keyTimes="0;0.5167;0.5722;.94;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect x="2" y="2" width="996" height="326" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<path d="M2,16 a14,14 0 0 1 14,-14 h968 a14,14 0 0 1 14,14 v26 h-996 z" fill="#161b22"/>
+<circle cx="28" cy="22" r="7" fill="#ff5f56"/><circle cx="52" cy="22" r="7" fill="#ffbd2e"/><circle cx="76" cy="22" r="7" fill="#27c93f"/>
+<text x="500.0" y="27" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14" fill="#8b949e">yash@dev: ~</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.0278;0.0318;.94;1" dur="18s" repeatCount="indefinite"/><text x="30" y="88" font-family="Consolas,Menlo,monospace" font-size="20" fill="#27c93f" font-weight="bold">$</text></g>
+<text x="66" y="88" clip-path="url(#k0)" font-family="Consolas,Menlo,monospace" font-size="20" fill="#e6edf3" textLength="72" lengthAdjust="spacingAndGlyphs">whoami</text>
+<text x="30" y="118" opacity="0" font-family="Consolas,Menlo,monospace" font-size="20" fill="#5eead4" textLength="612" lengthAdjust="spacingAndGlyphs"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.0944;0.0984;.94;1" dur="18s" repeatCount="indefinite"/>&gt; yash_gupta | B.Tech CSE @ GGITS | batch 2024-2028</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1944;0.1984;.94;1" dur="18s" repeatCount="indefinite"/><text x="30" y="150" font-family="Consolas,Menlo,monospace" font-size="20" fill="#27c93f" font-weight="bold">$</text></g>
+<text x="66" y="150" clip-path="url(#k1)" font-family="Consolas,Menlo,monospace" font-size="20" fill="#e6edf3" textLength="156" lengthAdjust="spacingAndGlyphs">cat stack.txt</text>
+<text x="30" y="180" opacity="0" font-family="Consolas,Menlo,monospace" font-size="20" fill="#a5b4fc" textLength="636" lengthAdjust="spacingAndGlyphs"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2611;0.2651;.94;1" dur="18s" repeatCount="indefinite"/>&gt; Java | Spring Boot | Python | FastAPI | React | AWS</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.3611;0.3651;.94;1" dur="18s" repeatCount="indefinite"/><text x="30" y="212" font-family="Consolas,Menlo,monospace" font-size="20" fill="#27c93f" font-weight="bold">$</text></g>
+<text x="66" y="212" clip-path="url(#k2)" font-family="Consolas,Menlo,monospace" font-size="20" fill="#e6edf3" textLength="132" lengthAdjust="spacingAndGlyphs">cat now.txt</text>
+<text x="30" y="242" opacity="0" font-family="Consolas,Menlo,monospace" font-size="20" fill="#f9a8d4" textLength="648" lengthAdjust="spacingAndGlyphs"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.4278;0.4318;.94;1" dur="18s" repeatCount="indefinite"/>&gt; microservices | websockets | cloud | always shipping</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5167;0.5207;.94;1" dur="18s" repeatCount="indefinite"/><text x="30" y="274" font-family="Consolas,Menlo,monospace" font-size="20" fill="#27c93f" font-weight="bold">$</text></g>
+<text x="66" y="274" clip-path="url(#k3)" font-family="Consolas,Menlo,monospace" font-size="20" fill="#e6edf3" textLength="132" lengthAdjust="spacingAndGlyphs">echo $MOTTO</text>
+<text x="30" y="304" opacity="0" font-family="Consolas,Menlo,monospace" font-size="20" fill="#fde68a" textLength="360" lengthAdjust="spacingAndGlyphs"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5833;0.5873;.94;1" dur="18s" repeatCount="indefinite"/>&gt; Ship it, break it, learn it.</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5889;0.5929;.94;1" dur="18s" repeatCount="indefinite"/><rect x="396" y="286" width="11" height="22" fill="#36BCF7"><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></rect></g>
+</svg>

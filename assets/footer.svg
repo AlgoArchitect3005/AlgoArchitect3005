@@ -1,0 +1,6 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="animated wave footer">
+<defs><linearGradient id="fg" x1="0" x2="1"><stop offset="0" stop-color="#36BCF7"/><stop offset="0.5" stop-color="#a855f7"/><stop offset="1" stop-color="#ff4d8d"/></linearGradient></defs>
+<path d="M0,60 q125,-45 250,0 t250,0 t250,0 t250,0 t250,0 t250,0 L1500,120 L0,120 Z" fill="url(#fg)" opacity="0.35"><animateTransform attributeName="transform" type="translate" values="0,0;-500,0" dur="9s" repeatCount="indefinite"/></path>
+<path d="M0,75 q125,-35 250,0 t250,0 t250,0 t250,0 t250,0 t250,0 L1500,120 L0,120 Z" fill="url(#fg)" opacity="0.6"><animateTransform attributeName="transform" type="translate" values="-500,0;0,0" dur="6s" repeatCount="indefinite"/></path>
+<path d="M0,92 q125,-25 250,0 t250,0 t250,0 t250,0 t250,0 t250,0 L1500,120 L0,120 Z" fill="url(#fg)"><animateTransform attributeName="transform" type="translate" values="0,0;-500,0" dur="4s" repeatCount="indefinite"/></path>
+</svg>
