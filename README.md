@@ -12,13 +12,16 @@
 
 Full-Stack Developer who builds REST APIs with **Java and Spring Boot**, pairs them with **React** frontends, and uses **Python (FastAPI)** where it fits. I care about clean API design, secure authentication, and shipping with a proper CI/CD pipeline.
 
-## What I focus on
+## 🎯 What's Next: AI 🤖
 
-- **Backend:** RESTful API design with Spring Boot, secured with Spring Security, JWT authentication, RBAC and BCrypt password hashing
-- **Frontend:** React.js with Vite
-- **Python:** FastAPI services and NumPy
-- **Quality & delivery:** Git, GitHub Actions, CI/CD, SonarQube, Postman, Maven
-- **Infra:** Docker, AWS
+<div align="center">
+
+| 🔭 Exploring now | 🚧 Up next | 🏁 Long-term goal |
+|:---|:---|:---|
+| Python for AI/ML (NumPy → Pandas) | LLM APIs + prompt engineering | Build & ship AI-powered products |
+| ML fundamentals (regression, classification) | RAG with vector databases | Backend + AI engineer profile |
+| FastAPI for serving models | AI agents & tool calling | Contribute to open source AI projects |
+
 
 ## 🛠️ Tech Stack
 
