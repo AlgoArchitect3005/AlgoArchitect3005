@@ -100,15 +100,30 @@ Uncomment this section once you have projects you want to show.
  
 </div>
 
-## Connect
+## 🤝 Connect
 
-- GitHub: [@AlgoArchitect3005](https://github.com/AlgoArchitect3005)
-- Threads: [@007yash_x24](https://www.threads.com/@007yash_x24)
-<!-- Uncomment after replacing the placeholders with your real details:
--->
-- LinkedIn: [your name](https://www.linkedin.com/in/yash-gupta-190854327)
-- Twitter / X: [@YOUR_HANDLE](https://x.com/YashGpt3005)
-- Email: [YOUR_EMAIL@gmail.com](mailto:guptayash.programmer@gmail.com)
+<div align="center">
 
+<a href="https://github.com/AlgoArchitect3005" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-AlgoArchitect3005-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</a>
+<a href="https://www.linkedin.com/in/yash-gupta-190854327" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Yash_Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="https://x.com/YashGpt3005" target="_blank">
+  <img src="https://img.shields.io/badge/X-@YashGpt3005-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
+</a>
+<a href="https://www.threads.com/@007yash_x24" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-@007yash__x24-000000?style=for-the-badge&logo=threads&logoColor=white" alt="threads" />
+</a>
+<a href="mailto:guptayash.programmer@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-guptayash.programmer-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+
+<br/><br/>
+
+<sub>💬 Open to internships, collaborations and good chai conversations.</sub>
+
+</div>
 <br/>
 <img src="assets/footer.svg" width="100%" alt="footer wave" />
