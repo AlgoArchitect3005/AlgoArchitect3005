@@ -1,93 +1,59 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Yash Gupta - Backend Developer" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="aws" />
-
-<br/><br/>
-
-<img src="assets/terminal.svg" width="85%" alt="terminal intro" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Yash Gupta, Full-Stack Developer. GitHub AlgoArchitect3005." width="100%">
+</picture>
 
 </div>
 
----
+## Hi, I'm Yash 👋
 
-## 🛠️ Tech Stack
+Full-Stack Developer who builds REST APIs with **Java and Spring Boot**, pairs them with **React** frontends, and uses **Python (FastAPI)** where it fits. I care about clean API design, secure authentication, and shipping with a proper CI/CD pipeline.
 
-<div align="center">
+## What I focus on
 
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,fastapi,postman,tomcat" alt="backend" />
+- **Backend:** RESTful API design with Spring Boot, secured with Spring Security, JWT authentication, RBAC and BCrypt password hashing
+- **Frontend:** React.js with Vite
+- **Python:** FastAPI services and NumPy
+- **Quality & delivery:** Git, GitHub Actions, CI/CD, SonarQube, Postman, Maven
+- **Infra:** Docker, AWS
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="frontend" />
+## Engineering stack
 
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="databases" />
-
-**Cloud & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode,idea" alt="cloud and tools" />
-
-**Data & Languages**<br/>
-<img src="https://skillicons.dev/icons?i=numpy,c,cpp" alt="data and languages" />
-
-**Concepts**<br/>
-<img src="https://img.shields.io/badge/Microservices-0db7ed?style=for-the-badge" alt="microservices" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="websockets" />
-<img src="https://img.shields.io/badge/REST_APIs-6DB33F?style=for-the-badge" alt="rest" />
-<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="jwt" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/AlgoArchitect3005?label=Followers&style=for-the-badge&logo=github&color=36BCF7" alt="followers" />
-<img src="https://komarev.com/ghpvc/?username=AlgoArchitect3005&label=Profile%20views&color=a855f7&style=for-the-badge" alt="views" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=AlgoArchitect3005&theme=tokyonight&hide_border=true" alt="streak" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/36BCF7/AlgoArchitect3005" alt="contribution chart" width="90%" />
+| Area | Technologies |
+| --- | --- |
+| Languages | `Java` `C` `C++` `JavaScript` `Python` `HTML` `CSS` |
+| Frameworks & libraries | `Spring Boot` `Spring Security` `React.js` `Vite` `FastAPI` `NumPy` |
+| Databases | `MongoDB` `PostgreSQL` `MySQL` |
+| Cloud & DevOps | `Docker` `AWS` `GitHub Actions` `CI/CD` |
+| Tools | `Git` `GitHub` `Maven` `Postman` `SonarQube` `VS Code` |
+| Concepts | `RESTful API Design` `JWT Authentication` `RBAC` `BCrypt` `Spring Profiles` |
 
 <!--
-  SNAKE animation: -->
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlgoArchitect3005/AlgoArchitect3005/output/github-snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/AlgoArchitect3005/AlgoArchitect3005/output/github-snake.svg" width="90%" />
-  </picture>
+## Featured projects
 
-</div>
+Uncomment this section once you have projects you want to show.
 
----
+| Project | What it is |
+| --- | --- |
+| [Project name](https://github.com/AlgoArchitect3005/REPO) | One short factual line |
+-->
 
-## 🤝 Let's Connect
+## GitHub activity
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yash-gupta-190854327" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://x.com/YashGpt3005" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
-  </a>
-  <a href="mailto:guptayash.programmer@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlgoArchitect3005&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlgoArchitect3005&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=7C3AED&text_color=0F172A" alt="GitHub stats for AlgoArchitect3005">
+</picture>
 
-<br/>
+## Connect
 
-<img src="assets/footer.svg" width="100%" alt="footer wave" />
+- GitHub: [@AlgoArchitect3005](https://github.com/AlgoArchitect3005)
+- Threads: [@007yash_x24](https://www.threads.com/@007yash_x24)
+<!-- Uncomment after replacing the placeholders with your real details:
+- LinkedIn: [your name](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+- Twitter / X: [@YOUR_HANDLE](https://x.com/YOUR_HANDLE)
+- Email: [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
+-->
