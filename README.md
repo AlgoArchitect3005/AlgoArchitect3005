@@ -63,13 +63,12 @@
 <img src="https://ghchart.rshah.org/36BCF7/AlgoArchitect3005" alt="contribution chart" width="90%" />
 
 <!--
-  SNAKE (uncomment AFTER the "Generate Snake" workflow has run once):
+  SNAKE animation: -->
   <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlgoArchitect3005/AlgoArchitect3005/output/github-snake-dark.svg" />
     <img alt="snake animation" src="https://raw.githubusercontent.com/AlgoArchitect3005/AlgoArchitect3005/output/github-snake.svg" width="90%" />
   </picture>
--->
 
 </div>
 
